@@ -1,6 +1,6 @@
 {
-  "type": "component",
-  "name": "gl1",
+  "type": "custom-component",
+  "name": "c",
   "children": [],
   "variables": [],
   "bindings": [],
